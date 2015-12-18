@@ -12,10 +12,6 @@ public class Application {
         SpringApplication.run(Config.class, args);
         System.out.println("jason");
     }
-    
-    
-    
-    
 }
 
 
